@@ -1,0 +1,16 @@
+.onda {
+    width: 1423px;
+    height: 450px;
+}
+
+.imagens {
+    width: 50px;
+    height: auto;
+    border: 10px solid bisque
+}
+
+#imagens {
+ display: flex ; 
+ justify-content: center;
+ margin: 30px;
+}
